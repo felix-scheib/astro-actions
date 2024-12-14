@@ -1,5 +1,7 @@
 # Astro Starter Kit: Basics
 
+[Website](https://felix-scheib.github.io/astro-actions/) is deployed using GitHub Actions.
+
 ```sh
 bunx create-astro@latest astro-actions
 ```
